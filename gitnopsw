@@ -1,0 +1,2 @@
+git config --global credential.helper store 
+git pull /git push (第一次输入，后续就必用再次输入)
